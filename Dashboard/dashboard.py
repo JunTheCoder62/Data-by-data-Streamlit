@@ -9,8 +9,8 @@ st.write('Nama : Juniyara Parisya Setiawan')
 st.write('Email : parissajuniara@gmail.com')
 st.write('ID Dicoding : juniyaraparisya')
 
-day_df = pd.read_csv("https://raw.githubusercontent.com/AxelTheAxcelian/Data-by-data-Streamlit/main/day.csv")
-hour_df = pd.read_csv("https://raw.githubusercontent.com/AxelTheAxcelian/Data-by-data-Streamlit/main/hour.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/AxelTheAxcelian/Data-by-data-Streamlit/main/Data/day.csv")
+hour_df = pd.read_csv("https://raw.githubusercontent.com/AxelTheAxcelian/Data-by-data-Streamlit/main/Data/hour.csv")
 
 
 
